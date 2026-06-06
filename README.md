@@ -2,4 +2,4 @@
 
 Most companies don't have a Product Operations problem. They have a misdiagnosis problem. This piece breaks down what Product Ops actually owns, how it differs from Program Management - and what I would do differently if building a Product Ops team from scratch today. 
 
-Please feel free to share your thoughts and provide feedback. Would love to hear from you! 
+Please feel free to share your thoughts and provide feedback. 
